@@ -1,6 +1,6 @@
 ```Code 
-$ tree ./favoriteTools
-./favoriteTools
+$ tree ./favorite
+./favorite
 │
 ├── languages
 │   ├── c#
@@ -36,7 +36,6 @@ $ tree ./favoriteTools
 └── toolkit
     ├── tmux
     ├── itree
-    ├── vscode
     ├── neovim
     └── notion
 ```
